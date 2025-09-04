@@ -1,0 +1,145 @@
+{
+    "horario": {
+        "lunes": [
+            {
+                "hora": "08:00",
+                "materia": "Matemáticas",
+                "profesor": "Prof. García",
+                "aula": "Aula 201"
+            },
+            {
+                "hora": "09:30",
+                "materia": "Física",
+                "profesor": "Prof. López",
+                "aula": "Laboratorio 1"
+            },
+            {
+                "hora": "11:00",
+                "materia": "Historia",
+                "profesor": "Prof. Martínez",
+                "aula": "Aula 105"
+            },
+            {
+                "hora": "14:00",
+                "materia": "Inglés",
+                "profesor": "Prof. Smith",
+                "aula": "Aula 203"
+            }
+        ],
+        "martes": [
+            {
+                "hora": "08:00",
+                "materia": "Química",
+                "profesor": "Prof. Rodríguez",
+                "aula": "Laboratorio 2"
+            },
+            {
+                "hora": "09:30",
+                "materia": "Literatura",
+                "profesor": "Prof. Fernández",
+                "aula": "Aula 108"
+            },
+            {
+                "hora": "11:00",
+                "materia": "Educación Física",
+                "profesor": "Prof. Torres",
+                "aula": "Gimnasio"
+            },
+            {
+                "hora": "14:00",
+                "materia": "Biología",
+                "profesor": "Prof. Herrera",
+                "aula": "Aula 210"
+            }
+        ],
+        "miercoles": [
+            {
+                "hora": "08:00",
+                "materia": "Matemáticas",
+                "profesor": "Prof. García",
+                "aula": "Aula 201"
+            },
+            {
+                "hora": "09:30",
+                "materia": "Filosofía",
+                "profesor": "Prof. Morales",
+                "aula": "Aula 115"
+            },
+            {
+                "hora": "11:00",
+                "materia": "Geografía",
+                "profesor": "Prof. Vega",
+                "aula": "Aula 107"
+            },
+            {
+                "hora": "14:00",
+                "materia": "Informática",
+                "profesor": "Prof. Jiménez",
+                "aula": "Laboratorio de Computación"
+            }
+        ],
+        "jueves": [
+            {
+                "hora": "08:00",
+                "materia": "Química",
+                "profesor": "Prof. Rodríguez",
+                "aula": "Laboratorio 2"
+            },
+            {
+                "hora": "09:30",
+                "materia": "Historia",
+                "profesor": "Prof. Martínez",
+                "aula": "Aula 105"
+            },
+            {
+                "hora": "11:00",
+                "materia": "Educación Física",
+                "profesor": "Prof. Torres",
+                "aula": "Gimnasio"
+            },
+            {
+                "hora": "14:00",
+                "materia": "Inglés",
+                "profesor": "Prof. Smith",
+                "aula": "Aula 203"
+            }
+        ],
+        "viernes": [
+            {
+                "hora": "08:00",
+                "materia": "Física",
+                "profesor": "Prof. López",
+                "aula": "Laboratorio 1"
+            },
+            {
+                "hora": "09:30",
+                "materia": "Literatura",
+                "profesor": "Prof. Fernández",
+                "aula": "Aula 108"
+            },
+            {
+                "hora": "11:00",
+                "materia": "Biología",
+                "profesor": "Prof. Herrera",
+                "aula": "Aula 210"
+            },
+            {
+                "hora": "14:00",
+                "materia": "Informática",
+                "profesor": "Prof. Jiménez",
+                "aula": "Laboratorio de Computación"
+            }
+        ],
+        "sabado": [],
+        "domingo": []
+    },
+    "configuracion": {
+        "horaRecordatorio": "07:30",
+        "canalRecordatorios": "recordatorios-escolares",
+        "mensajePersonalizado": "¡Buenos días! Aquí tienes tu horario de hoy:",
+        "emojiMateria": "📚",
+        "emojiHora": "🕐",
+        "emojiAula": "🏫",
+        "emojiProfesor": "👨‍🏫"
+    }
+}
