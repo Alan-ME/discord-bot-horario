@@ -2,131 +2,131 @@
     "horario": {
         "lunes": [
             {
-                "hora": "08:00",
-                "materia": "Matemáticas",
-                "profesor": "Prof. García",
+                "hora": "7:30",
+                "materia": "Educación Física",
+                "profesor": "Prof. Alan",
                 "aula": "Aula 201"
             },
             {
-                "hora": "09:30",
-                "materia": "Física",
-                "profesor": "Prof. López",
+                "hora": "9:40",
+                "materia": "Educación Física",
+                "profesor": "Prof. Alan",
                 "aula": "Laboratorio 1"
             },
             {
-                "hora": "11:00",
-                "materia": "Historia",
-                "profesor": "Prof. Martínez",
+                "hora": "13:10",
+                "materia": "Sistemas_Digitales",
+                "profesor": "Prof. Alan",
                 "aula": "Aula 105"
             },
             {
-                "hora": "14:00",
+                "hora": "15:20",
                 "materia": "Inglés",
-                "profesor": "Prof. Smith",
+                "profesor": "Prof. Alan",
                 "aula": "Aula 203"
             }
         ],
         "martes": [
             {
-                "hora": "08:00",
-                "materia": "Química",
-                "profesor": "Prof. Rodríguez",
+                "hora": "7:30",
+                "materia": "Sistemas_Redes",
+                "profesor": "Prof. Alan",
+                "aula": "Aula 201"
+            },
+            {
+                "hora": "9:40",
+                "materia": "Front_End",
+                "profesor": "Prof. Alan",
                 "aula": "Laboratorio 2"
             },
             {
-                "hora": "09:30",
+                "hora": "13:10",
                 "materia": "Literatura",
-                "profesor": "Prof. Fernández",
+                "profesor": "Prof. Alan",
                 "aula": "Aula 108"
             },
             {
-                "hora": "11:00",
-                "materia": "Educación Física",
-                "profesor": "Prof. Torres",
+                "hora": "15:20",
+                "materia": "Plastica",
+                "profesor": "Prof. Alan",
                 "aula": "Gimnasio"
-            },
-            {
-                "hora": "14:00",
-                "materia": "Biología",
-                "profesor": "Prof. Herrera",
-                "aula": "Aula 210"
             }
         ],
         "miercoles": [
             {
-                "hora": "08:00",
-                "materia": "Matemáticas",
-                "profesor": "Prof. García",
+                "hora": "7:30",
+                "materia": "No programado",
+                "profesor": "Prof. Alan",
                 "aula": "Aula 201"
             },
             {
-                "hora": "09:30",
-                "materia": "Filosofía",
-                "profesor": "Prof. Morales",
+                "hora": "9:40",
+                "materia": "No programado",
+                "profesor": "Prof. Alan",
                 "aula": "Aula 115"
             },
             {
-                "hora": "11:00",
-                "materia": "Geografía",
-                "profesor": "Prof. Vega",
+                "hora": "13:10",
+                "materia": "Matemáticas",
+                "profesor": "Prof. Alan",
                 "aula": "Aula 107"
             },
             {
-                "hora": "14:00",
-                "materia": "Informática",
-                "profesor": "Prof. Jiménez",
+                "hora": "15:20",
+                "materia": "Gestión de Proyectos",
+                "profesor": "Prof. Alan",
                 "aula": "Laboratorio de Computación"
             }
         ],
         "jueves": [
             {
-                "hora": "08:00",
-                "materia": "Química",
-                "profesor": "Prof. Rodríguez",
-                "aula": "Laboratorio 2"
+                "hora": "7:30",
+                "materia": "Back_End",
+                "profesor": "Prof. Alan",
+                "aula": "Laboratorio 1"
             },
             {
-                "hora": "09:30",
-                "materia": "Historia",
-                "profesor": "Prof. Martínez",
+                "hora": "9:40",
+                "materia": "Front_End",
+                "profesor": "Prof. Alan",
                 "aula": "Aula 105"
             },
             {
-                "hora": "11:00",
-                "materia": "Educación Física",
-                "profesor": "Prof. Torres",
+                "hora": "13:10",
+                "materia": "Seguridad Informática",
+                "profesor": "Prof. Alan",
                 "aula": "Gimnasio"
             },
             {
-                "hora": "14:00",
-                "materia": "Inglés",
-                "profesor": "Prof. Smith",
+                "hora": "15:20",
+                "materia": "Filosofía",
+                "profesor": "Prof. Alan",
                 "aula": "Aula 203"
             }
         ],
         "viernes": [
             {
-                "hora": "08:00",
-                "materia": "Física",
-                "profesor": "Prof. López",
-                "aula": "Laboratorio 1"
+                "hora": "7:30",
+                "materia": "Programación",
+                "profesor": "Prof. Alan",
+                "aula": "Aula 201"
             },
             {
-                "hora": "09:30",
-                "materia": "Literatura",
-                "profesor": "Prof. Fernández",
+                "hora": "9:40",
+                "materia": "Programación",
+                "profesor": "Prof. Alan",
                 "aula": "Aula 108"
             },
             {
-                "hora": "11:00",
-                "materia": "Biología",
-                "profesor": "Prof. Herrera",
+                "hora": "13:10",
+                "materia": "Seguridad Informática",
+                "profesor": "Prof. Alan",
                 "aula": "Aula 210"
             },
             {
-                "hora": "14:00",
-                "materia": "Informática",
-                "profesor": "Prof. Jiménez",
+                "hora": "15:20",
+                "materia": "Derecho",
+                "profesor": "Prof. Alan",
                 "aula": "Laboratorio de Computación"
             }
         ],
